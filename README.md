@@ -94,6 +94,7 @@ You can use Postman to interact with the API. The collection is already set up t
 
 **License**:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+File: shoppingcart.postman_collection.json
 
 **Contact**:
 For any inquiries, please contact arles_2000@hotmail.com.
